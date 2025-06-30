@@ -10,3 +10,11 @@
     --tw-bg-opacity: 1;
     background-color: #2D257D !important;
 }
+.border-indigo-600{
+     --tw-bg-opacity: 1;
+    border-color: #2D257D !important;
+}
+.text-indigo-600{
+     --tw-bg-opacity: 1;
+   color: #2D257D !important;
+}
